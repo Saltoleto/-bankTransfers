@@ -6,6 +6,7 @@ import br.com.saltoleto.enumerator.SuggestionStatusEmum;
 import br.com.saltoleto.repository.BankTransferRepository;
 import br.com.saltoleto.repository.SuggestionStatusRepository;
 import lombok.AllArgsConstructor;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
