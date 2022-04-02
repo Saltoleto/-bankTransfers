@@ -11,7 +11,7 @@
     <groupId>br.com.saltoleto</groupId>
     <artifactId>bank-transfers</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pocRestQuery</name>
+    <name>bankTransfers</name>
     <properties>
         <java.version>11</java.version>
     </properties>
